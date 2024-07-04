@@ -1,5 +1,4 @@
 # Artificial Intelligence for Robotics Assignment I
-## Introduction
 
 ## Description
 
